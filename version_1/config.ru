@@ -1,6 +1,6 @@
 
 $:.unshift "./app"
 
-require 'sentimentapi_v1.1'
+require 'sentimentapi_v1'
 
-run SentimentApiV1_1
+run SentimentApiV1
